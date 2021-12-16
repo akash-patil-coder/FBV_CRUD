@@ -1,0 +1,29 @@
+.mynavbar
+{
+    background-color : olive;
+    list-style-type : none;
+    overflow : hidden;
+    margin : 0;
+    padding :0;
+}
+
+li{
+    float : left;
+}
+
+li a
+{
+    padding:15px 15px 15px 5px;
+    color : black;
+    display : block;
+}
+
+li a:hover
+{
+    background-color : coral;
+}
+
+.authlinks
+{
+    float:right;
+}
